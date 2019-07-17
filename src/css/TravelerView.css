@@ -1,0 +1,16 @@
+#travelerViewTitel{
+    padding: 20px;
+    text-align: center;
+}
+
+#travelerViewBody {
+  text-align: center;
+}
+
+#travelerViewButton {
+  margin-bottom: 30px;
+}
+  
+#complaints-table-wrapper {
+  overflow: hidden;
+}
